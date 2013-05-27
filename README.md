@@ -23,7 +23,7 @@ lleval.evaluate('js', 'print("Hello");', function(err, data) {
 
 Evaluate Ruby2.0.
 
-```
+```javascript
 var
 lleval = require('lleval');
 

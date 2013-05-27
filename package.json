@@ -1,6 +1,6 @@
 {
   "name": "lleval",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "lleval(http://colabv6.dan.co.jp/lleval.html) APIs wrapper for Node.js",
   "main": "index.js",
   "scripts": {

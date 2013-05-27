@@ -1,0 +1,31 @@
+{
+  "name": "lleval",
+  "version": "0.1.0",
+  "description": "lleval(http://colabv6.dan.co.jp/lleval.html) APIs front end for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": " node ./node_modules/mocha/bin/mocha --reporter spec"
+  },
+  "bin": {
+    "node-lleval": "./tool/node-lleval"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alucky0707/node-lleval.git"
+  },
+  "keywords": [
+    "lleval",
+    "eval",
+    "API"
+  ],
+  "author": "alucky0707",
+  "license": "BSD",
+  "devDependencies": {
+    "request": "~2.21.0",
+    "mocha": "~1.10.0",
+    "should": "~1.2.2"
+  }
+}

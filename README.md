@@ -39,6 +39,14 @@ lleval.evaluate('rb20', 'puts "Hello"', function(err, data) {
 
 And more.
 
+##Command Line Tool
+
+Please do,
+
+```
+$ node-lleval -h
+```
+
 ##Supported Language
 
 See also, [lleval](http://colabv6.dan.co.jp/lleval.html).

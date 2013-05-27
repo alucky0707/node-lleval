@@ -23,8 +23,10 @@
   ],
   "author": "alucky0707",
   "license": "BSD",
+  "dependencies": {
+    "request": "~2.21.0"
+  },
   "devDependencies": {
-    "request": "~2.21.0",
     "mocha": "~1.10.0",
     "should": "~1.2.2"
   }

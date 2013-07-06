@@ -5,7 +5,7 @@ It is evaluate some program language on Node.js.
 
 ##Example
 
-Evaluate JavaScript.
+Evaluate JavaScript on Node.js.
 
 ```javascript
 var
@@ -39,7 +39,7 @@ lleval.evaluate('rb20', 'puts "Hello"', function(err, data) {
 
 And more.
 
-##Command Line Tool
+##Command Line Interface
 
 Please do,
 

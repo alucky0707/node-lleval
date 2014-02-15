@@ -1,6 +1,6 @@
 {
   "name": "lleval",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "lleval(http://colabv6.dan.co.jp/lleval.html) APIs wrapper for Node.js",
   "main": "index.js",
   "scripts": {
@@ -24,10 +24,10 @@
   "author": "alucky0707",
   "license": "BSD",
   "dependencies": {
-    "request": "~2.21.0"
+    "request": ">=2.21.0"
   },
   "devDependencies": {
-    "mocha": "~1.10.0",
-    "should": "~1.2.2"
+    "mocha": ">=1.10.0",
+    "should": ">=1.2.2"
   }
 }

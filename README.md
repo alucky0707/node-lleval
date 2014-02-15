@@ -3,9 +3,15 @@
 It is evaluate some program language on Node.js.
  [lleval](http://colabv6.dan.co.jp/lleval.html) APIs wrapper for Node.js.
 
+##Install
+
+```
+$ npm install lleval -g
+```
+
 ##Example
 
-Evaluate JavaScript.
+Evaluate JavaScript on Node.js.
 
 ```javascript
 var
@@ -39,7 +45,7 @@ lleval.evaluate('rb20', 'puts "Hello"', function(err, data) {
 
 And more.
 
-##Command Line Tool
+##Command Line Interface
 
 Please do,
 
